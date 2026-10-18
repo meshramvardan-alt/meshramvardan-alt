@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vardan 👋
 
-<!--
-**meshramvardan-alt/meshramvardan-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | Aspiring AI Developer
 
-Here are some ideas to get you started:
+I'm learning to build practical software and AI-powered applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python, Git, APIs, and AI development
+- 🤖 Interested in AI agents, automation, and software engineering
+- 🚀 Building projects that solve real-world problems
+- 🎯 Goal: Turn my technical skills into useful products
+
+### 🛠️ Tech Stack
+
+- **Languages:** Python, C
+- **Tools:** Git, GitHub, VS Code
+- **Currently exploring:** APIs, LangChain, and AI applications
+
+### 📌 Featured Projects
+
+Projects will be added here as I build and improve them.
+
+### 📫 Connect With Me
+
+- GitHub: [@meshramvardan-alt](https://github.com/meshramvardan-alt)
